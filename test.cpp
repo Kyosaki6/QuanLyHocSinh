@@ -8,6 +8,7 @@ bool soLe(int number){
 int main(){
     int n;
     cin >> n;
-    cout << soLe(n);
+    cout << soLe(n) << endl;
+    cout << "Huy DC Ngu";
     return 0;
 }
